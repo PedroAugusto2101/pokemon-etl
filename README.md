@@ -1,9 +1,6 @@
-# pokemon-etl
-
 # ETL no Databricks com Data Lakehouse — Guia Prático
 
 > Este README organiza e complementa suas anotações para servir como um passo-a-passo didático de como construir uma pipeline ETL no Databricks usando a arquitetura Lakehouse (Delta Lake + governança).
-> 
 
 ---
 
